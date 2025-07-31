@@ -1,0 +1,9 @@
+# Ignore system and IDE clutter
+.vscode/
+node_modules/
+*.log
+AppData/
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
